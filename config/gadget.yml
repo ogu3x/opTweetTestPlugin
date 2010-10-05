@@ -1,0 +1,6 @@
+tweetTest:
+  caption:
+    ja_JP: "tweet test"
+  description:
+    ja_JP: "テストガジェットです"
+  component: [tweet, tweetPost]
