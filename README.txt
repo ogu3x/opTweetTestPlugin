@@ -1,0 +1,2 @@
+opAuthWithTwitterPluginのテスト用ガジェット
+認証時に保存された、tokenとtoken_secretを利用してPostのテストができます。
